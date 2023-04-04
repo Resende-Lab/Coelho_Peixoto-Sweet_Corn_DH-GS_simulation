@@ -19,7 +19,7 @@ iv. **GSDis**: Genomic selection breeding program with the discrete parental str
 
 **2. Startegies folder**: This folder has the script for the second set of simulations. Even though eigth scenarios were evaluated, we focus in the main manuscript on four of them. It is worth mentioning that all scenarios of this second part of simulations were implemented with the best strategy before selected: the discrete strategy. The scenarios were as follow:
 
-i. **Conv**: Conventional breeding program. 
+i. **Conv**: Conventional breeding program.  
 ii. **GS**: Genomic selection breeding program.   
 iii. **DH**: Doubled-haploid breeding program.    
 iv. **DHGS**: Doubled-haploid breeding program with genomic selection.  
