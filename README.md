@@ -23,11 +23,14 @@ i. **Conv**: Conventional breeding program.
 ii. **GS**: Genomic selection breeding program.  
 iii. **DH**: Doubled-haploid breeding program.   
 iv. **DHGS**: Doubled-haploid breeding program with genomic selection.
-v. ****
+v. **DH4y**: Doubled-haploid breeding program lasting 4 years.
+vi. **DHGS4y**: Doubled-haploid breeding program with genomic selection lasting 4 years.
+vii: **DHAlt**: Doubled-haploid breeding program alternative (400 individuals selected at year 2).
+viii: **DHGSAlt**: Doubled-haploid breeding program alternative plus genomic selection ((400 individuals selected at year 2).
 
 **Plot folder**: This folder contains a script to plot the graphs as an outcome of the analyses.
 
-Any question about the analyses, please, contact me!
+Any question regarding the analyses, please, contact me!
 
 Marco
 
