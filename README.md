@@ -30,8 +30,8 @@ viii: **DHGSAlt**: Doubled-haploid breeding program alternative plus genomic sel
 
 **Plot folder**: This folder contains a script to plot the graphs as an outcome of the analyses. There are two files, one for each one of the set of simulations before described. You may find the plot for hybrid performance, parental performance, parental mean, accurary of the models used, hybrid gain per cycle, and efficiency. The files are:
 
-i. **Plot_parental_sel**  
-ii. **Plot_scenarios**  
+i. **Plot_Parental_sel**  
+ii. **Plot_Strategies**  
 
 
 
