@@ -1,6 +1,6 @@
 # Coelho_Peixoto-Sweet_Corn_DH-GS_simulation
 
-This is a repository with the scripts of the paper: Use of simulation to optimize a sweet corn breeding program: implementing genomic selection and doubled haploid technology (Coelho et al. 2023). *DOI:*
+This is a repository with the scripts from the analyses implemented for the paper: Use of simulation to optimize a sweet corn breeding program: implementing genomic selection and doubled haploid technology (Coelho et al. 2023). *DOI:*
 
 ### Especifications
 
