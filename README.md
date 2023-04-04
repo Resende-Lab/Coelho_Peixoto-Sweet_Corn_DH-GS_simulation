@@ -28,7 +28,12 @@ vi. **DHGS4y**: Doubled-haploid breeding program with genomic selection lasting 
 vii: **DHAlt**: Doubled-haploid breeding program alternative (400 individuals selected at year 2).  
 viii: **DHGSAlt**: Doubled-haploid breeding program alternative plus genomic selection ((400 individuals selected at year 2).  
 
-**Plot folder**: This folder contains a script to plot the graphs as an outcome of the analyses.
+**Plot folder**: This folder contains a script to plot the graphs as an outcome of the analyses. There are two files, one for each one of the set of simulations before described. You may find the plot for hybrid performance, parental performance, parental mean, accurary of the models used, hybrid gain per cycle, and 
+
+i. **Plot_parental_sel**  
+ii. **Plot_scenarios**  
+
+
 
 Any question regarding the analyses, please, contact me!
 
