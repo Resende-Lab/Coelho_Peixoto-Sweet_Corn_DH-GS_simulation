@@ -17,11 +17,9 @@ ii. **ConvDis**: Conventional breeding program (phenotypic selection) with the d
 iii. **GSOver**: Genomic selection breeding program with the overlapping parental strategy.  
 iv. **GSDis**: Genomic selection breeding program with the discrete parental strategy.  
 
-**2. Startegies folder**: This folder has the script for the second question of the paper: the feasibility of implementation of genomic selection and high-throughput phenotyping in a hybrid breeding program.
+**2. Startegies folder**: This folder has the script for the second set of simulations. Even though eigth scenarios were evaluated, we focus in the main manuscript on four of them. It is worth mentioning that all scenarios of this second part of simulations were implemented with the best strategy before selected: the discrete strategy. The scenarios were as follow:
 
-Four scenarios were evaluated (all with early selection, i.e., parents of the new cycle selected from the top ranked individuals in F3/F5 populations):
-
-i. **CONVe**: Conventional breeding program wit   
+i. **conv**: Conventional breeding program.
 ii. **CONVe_HTP**: conventional breeding program with high-throughput phenotyping.   
 iii. **GSe**: conventional breeding program with genomic selection.   
 iv. **GSe_HTP**: conventional breeding program with genomic selection and high-throughput phenotyping.   
